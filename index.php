@@ -12,5 +12,6 @@
     <?php echo "Этот код написал другой разработчик";?>
 
     <?php echo "Спасибо за Code Review";?>
+    <?php echo 4+5;?>
 </body>
 </html>
