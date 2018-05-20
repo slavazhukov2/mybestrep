@@ -13,5 +13,7 @@
 
     <?php echo "Спасибо за Code Review";?>
     <?php echo 4+5;?>
+
+    <?php echo "New Info"; ?>
 </body>
 </html>
