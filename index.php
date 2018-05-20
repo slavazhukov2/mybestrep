@@ -12,5 +12,7 @@
     <?php echo "Этот код написал другой разработчик";?>
 
     <?php echo 4+5;?>
+
+    <?php echo "any something";?>
 </body>
 </html>
