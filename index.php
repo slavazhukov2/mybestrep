@@ -7,7 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Привет, мир"?>
-    <?php echo "Привет, мир еще раз"?>
+    <?php echo "Привет, мир";?>
+    <?php echo "Привет, мир еще раз";?>
+    <?php echo "Этот код написал другой разработчик";?>
 </body>
 </html>
